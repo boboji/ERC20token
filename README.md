@@ -1,3 +1,19 @@
+/*
+以太坊官網
+https://www.ethereum.org
+
+以太坊官網智能合約編碼器
+http://remix.ethereum.org
+
+https://ethereum.github.io/browser-solidity
+以太幣區塊鏈瀏覽器
+https://etherscan.io
+
+MyEtherWallet網頁錢包
+https://www.myetherwallet.com
+/*
+
+
 pragma solidity ^0.4.16;
  
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) public; }
