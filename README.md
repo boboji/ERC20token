@@ -1,6 +1,3 @@
-matemask
-away vapor practice river mobile sibling amateur uncover theory spare gauge endless
-
 //
 以太坊官網
 https://www.ethereum.org
@@ -14,6 +11,9 @@ https://etherscan.io
 
 MyEtherWallet網頁錢包
 https://www.myetherwallet.com
+
+
+
 //
 pragma solidity ^0.4.16;
  
