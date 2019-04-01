@@ -1,4 +1,4 @@
-//
+/*
 以太坊官網
 https://www.ethereum.org
 
@@ -11,10 +11,8 @@ https://etherscan.io
 
 MyEtherWallet網頁錢包
 https://www.myetherwallet.com
+/*
 
-
-
-//
 pragma solidity ^0.4.16;
  
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) public; }
